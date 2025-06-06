@@ -1,2 +1,3 @@
 This is content of this file
 This is new line
+This is before stash
